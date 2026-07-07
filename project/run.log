@@ -1,0 +1,11 @@
+2026-07-07 10:41:36,481 - INFO - Job started
+2026-07-07 10:41:36,483 - INFO - Configuration loaded
+2026-07-07 10:41:36,483 - INFO - Validation passed
+2026-07-07 10:41:36,500 - WARNING - Detected quote-wrapped CSV columns. Strip outer quotes and re-parse.
+2026-07-07 10:41:36,515 - INFO - Rows loaded: 10000
+2026-07-07 10:41:36,516 - INFO - Rolling mean started
+2026-07-07 10:41:36,516 - INFO - Signal generation started
+2026-07-07 10:41:36,517 - INFO - Output written to metrics.json
+2026-07-07 10:41:36,517 - INFO - Metrics summary: {'version': 'v1', 'rows_processed': 10000, 'metric': 'signal_rate', 'value': 0.4989, 'latency_ms': 36, 'seed': 42, 'status': 'success'}
+2026-07-07 10:41:36,517 - INFO - Elapsed runtime: 0.0370 seconds
+2026-07-07 10:41:36,517 - INFO - Job completed
